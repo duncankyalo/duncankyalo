@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m A  software developer
 - 💞️ I’m looking to collaborate in machine learning and software engineering 
-- 📫 Reach me -duncankivindyo@gmail.com
+- 📫 Reach me duncankivindyo@gmail.com
   
 
 <!---
