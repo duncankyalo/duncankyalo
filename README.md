@@ -1,5 +1,7 @@
 # 💫 About Me:
-Turning data into foresight.AI, climate modeling, Software Development & business insights that spark resilience, innovation & real-world impact.📫 Reach me duncankivindyo@gmail.com
+- Turning data into foresight.
+- Speciality in AI, climate modeling, Software Development & business insights that spark resilience, innovation & real-world impact.
+- Reach me via Email: duncankivindyo@gmail.com
 
 
 ## 🌐 Socials:
