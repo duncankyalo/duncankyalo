@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @duncankyalo<br>👀 I’m interested in data science<br>🌱 I’m A software developer<br>💞️ I’m looking to collaborate in machine learning and software engineering<br>📫 Reach me duncankivindyo@gmail.com
+Turning data into foresight.AI, climate modeling, Software Development & business insights that spark resilience, innovation & real-world impact.📫 Reach me duncankivindyo@gmail.com
 
 
 ## 🌐 Socials:
